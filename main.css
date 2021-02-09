@@ -13,5 +13,6 @@ p {text-align: center;color: hsl(201, 11%, 66%); max-width: 620px; margin-right:
 .btn--secondary {background-color:hsl(233, 100%, 69%) ;}
 .btn--secondary:hover {background-color:hsl(233, 67%, 60%) ;}
 .col-md-4 {margin-left: 5%!important ;}
-div p {text-align: left !important  ;}
+section >  div > div >  p {text-align: left;}
 div h4 {text-align: left !important  ;}
+.w-75 {max-width: 80% !important; margin: 0 auto !important; text-align: center !important;}
