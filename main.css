@@ -25,13 +25,14 @@ footer {background-color: hsl(0, 0%, 87%); margin-top: 5%;}
 footer >div >div > img {max-width: 100px !important; max-height: 100px !important; margin-top:5%; margin-bottom: 3%;}
 a {color:black !important ; }
 a:hover {color:hsl(171, 66%, 44%) !important ; }
-.fab {color: hsl(210, 10%, 33%); }
+.fab {color: hsl(210, 10%, 33%);  }
 .fab:hover {color:hsl(171, 66%, 44%) !important ;}
+footer a {margin-right: 5% ;}
 @media screen and (max-width: 800px) {
     
      
      }
-     @media screen and (max-width: 800px) {
+     @media screen and (max-width: 768px) {
           section {padding-left: 4%; padding-right: 4%; max-width: 100%;}
           section > div > div {margin-top: 0% !important; max-width: 75%; margin-left: auto; margin-right: auto;}
           .row { margin-left: auto !important; margin-right: auto !important; }
@@ -48,6 +49,7 @@ a:hover {color:hsl(171, 66%, 44%) !important ; }
           ul {margin-top: 0% !important;}
           li {margin-top:5% ;}
           footer a {margin-right:auto; margin-left: auto; margin-top: 8%; padding-bottom:10% ;}
+          footer .container {max-width: 540px;}
      }
 @media screen and (max-width: 600px) {
      section {padding-left: 4%; padding-right: 4%; max-width: 100%;}
