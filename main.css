@@ -16,4 +16,10 @@ p {text-align: center;color: hsl(201, 11%, 66%); max-width: 620px; margin-right:
 section >  div > div >  p {text-align: left;}
 div h4 {text-align: left !important  ;}
 .w-75 {max-width: 100% !important; margin: 0 auto !important;}
-ul {list-style: none; margin-left: auto !important; margin-right: auto !important; max-width: 85%; margin-top: 7vw !important;}
+ul {list-style: none; margin-left: auto !important; margin-right: auto !important; max-width: 85%; margin-top: 5vw !important; margin-bottom: 0px !important;}
+footer {background-color: hsl(0, 0%, 87%); margin-top: 5%;}
+footer >div >div > img {max-width: 100px !important; max-height: 100px !important; margin-top:5%; margin-bottom: 3%;}
+a {color:black !important ; }
+a:hover {color:hsl(171, 66%, 44%) !important ; }
+.fab {color: hsl(210, 10%, 33%); ;}
+.fab:hover {color:hsl(171, 66%, 44%) !important ;}
