@@ -28,10 +28,9 @@ a:hover {color:hsl(171, 66%, 44%) !important ; }
 .fab {color: hsl(210, 10%, 33%);  }
 .fab:hover {color:hsl(171, 66%, 44%) !important ;}
 footer a {margin-right: 5% ;}
-@media screen and (max-width: 800px) {
-    
-     
-     }
+
+footer img {max-width: 50px !important; max-height: 50px !important; }
+
      @media screen and (max-width: 768px) {
           section {padding-left: 4%; padding-right: 4%; max-width: 100%;}
           section > div > div {margin-top: 0% !important; max-width: 75%; margin-left: auto; margin-right: auto;}
